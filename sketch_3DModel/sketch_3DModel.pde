@@ -1,5 +1,3 @@
-import gifAnimation.*;
-
 ArrayList<Point> points = new ArrayList<Point>();
 boolean menu = true;
 boolean showResult = false;
